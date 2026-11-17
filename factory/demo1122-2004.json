@@ -1,0 +1,15 @@
+{
+	"name": "demo1122-2004",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c256d8f4-8c93-43ff-a3a0-0280c2d537ab",
+		"tenantId": "b004a8b0-87e2-43c3-9940-c62feee15ff9"
+	}
+}
